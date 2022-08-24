@@ -1,16 +1,17 @@
-### Hi there 👋
+# Saudações 
+Meu nome é Mateus Murinelly
 
-<!--
-**MateusMurinelly/MateusMurinelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou natural de Fortaleza/Ceara, Brasil
 
-Here are some ideas to get you started:
+Atualmente estudo ciencia de dados/data science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Some infos:
+- 🔭 I’m currently not working :(
+- 🌱 I’m currently learning: data science/python
+- 👯 I’m looking to collaborate with the communit 
+- 📫 How to reach me: instagran>mateusmurinelly///facebook>mateusmurinelly 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i was a english teacher in a big school at my city 
+
