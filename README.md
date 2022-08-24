@@ -7,7 +7,7 @@ Atualmente estudo ciencia de dados/data science
 
 
 
-Some infos:
+Some infos about me:
 - 🔭 I’m currently not working :(
 - 🌱 I’m currently learning: data science/python
 - 👯 I’m looking to collaborate with the communit 
