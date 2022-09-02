@@ -14,4 +14,4 @@ Some infos about me:
 - 📫 How to reach me: instagran>mateusmurinelly///facebook>mateusmurinelly 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i was a english teacher in a big school at my city 
-
+- 🏈 I´m a american football player at my city (#83 Ceara Caçadores)
