@@ -17,7 +17,7 @@ Some infos about me:
 - 🏈 I´m a american football player at my city (#83 Ceara Caçadores)
 
 <div align="center">
-  <a href="https://github.com/GetulioLT">
+  <a href="https://github.com/MateusMurinelly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusMurinelly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMurinelly&layout=compact&langs_count=7&theme=dracula"/>
 </div>
