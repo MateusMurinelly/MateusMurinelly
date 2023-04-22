@@ -1,20 +1,18 @@
-# Saudações 
+<h1>olá</h1>
 Meu nome é Mateus Murinelly
 
 Sou natural de Fortaleza/Ceara, Brasil
 
 Atualmente estudo ciencia de dados/data science
+<h3>Python/Pandas/Microsoft Power BI/Machine Learning/Scikit Learn</h3>
 
 
-
-Some infos about me:
-- 🔭 I’m currently not working :(
-- 🌱 I’m currently learning: data science/python
-- 👯 I’m looking to collaborate with the communit 
-- 📫 How to reach me: instagran>mateusmurinelly///facebook>mateusmurinelly 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i was a english teacher in a big school at my city 
-- 🏈 I´m a american football player at my city (#83 Ceara Caçadores)
+Some infos about me/Algumas informações sobre mim:
+- 🔭 I’m currently not working :( / Em busca de uma oportunidade
+- 🌱 I’m currently learning: data science/python / Atualmente estudo ciência de dados na Infinty school
+- 📫 How to reach me: instagran>mateusmurinelly///facebook>mateusmurinelly <> essas são minhas redes sociais 
+- ⚡ Fun fact: i was a english teacher in a big school at my city / Já trabalhei como professor de ingles em uma das maiores escolas da minha região
+- 🏈 I´m a american football player at my city (#83 Ceara Caçadores) / Sou Linebacker do maior time de futebol americano do meu estado
 
 
   
