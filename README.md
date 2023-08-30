@@ -3,8 +3,10 @@ Meu nome é Mateus Murinelly
 
 Sou natural de Fortaleza/Ceara, Brasil
 
-Atualmente estudo ciencia de dados/data science
-<h3>Python/Pandas/Microsoft Power BI/Machine Learning/Scikit Learn</h3>
+<h3>Cursando Bacharelado em sistemas de informação</h3>
+
+
+<h2>Ciencia de dados/Python/Pandas/Microsoft Power BI/Machine Learning/Scikit Learn</h2>
 
 
 Some infos about me/Algumas informações sobre mim:
